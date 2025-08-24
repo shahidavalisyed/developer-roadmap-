@@ -134,6 +134,5 @@
 - **Daily:** 2–3 hrs learning + coding  
 - **Weekly:** 1 deep-dive blog + 1 design doc  
 - **Monthly:** 1 project milestone delivered  
-- **Yearly:** 1–2 big projects that push limits  
-"""
+- **Yearly:** 1–2 big projects that push limits 
 
