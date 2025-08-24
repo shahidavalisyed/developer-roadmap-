@@ -1,7 +1,3 @@
-import pypandoc
-
-# The content for the roadmap README
-readme_content = """
 # 🚀 20-Years Experience Knowledge Roadmap (Condensed Learning Plan)
 
 This roadmap compresses the depth of knowledge a **20+ year experienced software engineer** has into a **5-year structured learning path**. 
