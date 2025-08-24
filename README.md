@@ -117,16 +117,3 @@ Follow this plan with hard work, smart projects, and reflection to develop **sen
 - Mentor juniors.
 - Build one product/startup project to understand tech + business.
 
----
-
-### 🌟 Final Note
-This roadmap isn’t about rushing — it’s about **structured acceleration**.  
-Think like a builder, not just a coder. Lead with clarity.  
-"""
-
-
-# Convert the content into a Markdown file
-output_path = "/mnt/data/20_years_experience_roadmap.md"
-pypandoc.convert_text(readme_content, 'md', format='md', outputfile=output_path, extra_args=['--standalone'])
-
-output_path
